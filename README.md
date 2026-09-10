@@ -1,4 +1,4 @@
-# Subscriptions-System
+# :credit_card: Subscriptions-System
 Streaming service subscription system.
 
 
