@@ -10,7 +10,7 @@ Streaming service subscription system.
 
 <img width="1137" height="857" alt="ST3" src="https://github.com/user-attachments/assets/25f71064-86dc-415c-9dd7-8cce33a8b70c" />
 
-## :man_technologist: Technologies
+## :gear: Technologies
 • Vitejs <br/>
 • React 18 <br/>
 • Vercel
